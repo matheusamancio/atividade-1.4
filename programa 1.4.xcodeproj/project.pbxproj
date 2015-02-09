@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DD4EACF81A88BB8200C58520 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD4EACF71A88BB8200C58520 /* main.m */; };
+		DD4EAD001A88BC2400C58520 /* Mascote.m in Sources */ = {isa = PBXBuildFile; fileRef = DD4EACFF1A88BC2400C58520 /* Mascote.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		DD4EACF41A88BB8200C58520 /* programa 1.4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "programa 1.4"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD4EACF71A88BB8200C58520 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DD4EACFE1A88BC2400C58520 /* Mascote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mascote.h; sourceTree = "<group>"; };
+		DD4EACFF1A88BC2400C58520 /* Mascote.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mascote.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +44,8 @@
 		DD4EACEB1A88BB8200C58520 = {
 			isa = PBXGroup;
 			children = (
+				DD4EACFE1A88BC2400C58520 /* Mascote.h */,
+				DD4EACFF1A88BC2400C58520 /* Mascote.m */,
 				DD4EACF61A88BB8200C58520 /* programa 1.4 */,
 				DD4EACF51A88BB8200C58520 /* Products */,
 			);
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD4EAD001A88BC2400C58520 /* Mascote.m in Sources */,
 				DD4EACF81A88BB8200C58520 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
