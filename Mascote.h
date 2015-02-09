@@ -14,6 +14,9 @@
     int energia;
 }
 - (instancetype) initWithVida : (int)v andEnergia : (int)e;
-- ()
+- (int) acessoVida;
+- (int) acessoEnergia;
+- (void) imprimaVida;
+- (void) imprimaEnergia;
 
 @end

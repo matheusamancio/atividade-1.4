@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F667B30C-BD67-4B24-9128-6CDBA460D701</string>
+	<key>IDESourceControlProjectName</key>
+	<string>programa 1.4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6B8C23668EFBD97D010872D11CB2624838EB724</key>
+		<string>https://github.com/matheusamancio/atividade-1.4.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>programa 1.4.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6B8C23668EFBD97D010872D11CB2624838EB724</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/matheusamancio/atividade-1.4.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6B8C23668EFBD97D010872D11CB2624838EB724</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6B8C23668EFBD97D010872D11CB2624838EB724</string>
+			<key>IDESourceControlWCCName</key>
+			<string>programa%201.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

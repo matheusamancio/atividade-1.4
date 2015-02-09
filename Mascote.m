@@ -10,4 +10,14 @@
 
 @implementation Mascote
 
+- (instancetype) initWithVida : (int)v andEnergia : (int)e;
+{
+        self =  [super self]
+    
+}
+- (int) acessoVida;
+- (int) acessoEnergia;
+- (void) imprimaVida;
+- (void) imprimaEnergia;
+
 @end
