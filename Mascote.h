@@ -18,5 +18,6 @@
 - (int) acessoEnergia;
 - (void) imprimaVida;
 - (void) imprimaEnergia;
+- (int)nivel;
 
 @end
