@@ -12,12 +12,38 @@
 {
     int vida;
     int energia;
+    int fome;
+    int chateado;
+    int sujo;
+    int cansado;
+    
 }
 - (instancetype) initWithVida : (int)v andEnergia : (int)e;
+
+
 - (int) acessoVida;
 - (int) acessoEnergia;
+- (int) acessoFome;
+- (int) acessoChateado;
+- (int) acessoSujo;
+- (int) acessoCansado;
 - (void) imprimaVida;
 - (void) imprimaEnergia;
-- (int)nivel;
+- (void) imprimaFome;
+- (void) imprimaChateado;
+- (void) imprimaSujo;
+- (void) imprimaCansado;
+- (void) sentirCansado;
+- (void) sentirFome;
+- (void) sentirSujo;
+- (void) sentirChateado;
+- (void) perderEnergia: (int)quanto;
+- (void) morrer;
+- (void) renascer;
+- (void) comer;
+- (void) dormir;
+- (void) banho;
+- (void) brincar;
+
 
 @end
